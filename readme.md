@@ -42,6 +42,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto está organizado da seguinte forma para facilitar a manutenção e escalabilidade:
 
+ ```
 PORTFOLIO/
 ├── css/
 │   └── style.css
@@ -52,6 +53,7 @@ PORTFOLIO/
 ├── index.html
 ├── about.html
 └── readme.md
+ ```
 
 
 ## ▶️ Como Executar
@@ -60,7 +62,7 @@ Para visualizar o projeto em sua máquina local, siga os passos abaixo:
 
 1.  **Clone o repositório (substitua com o link do seu repositório):**
     ```sh
-    git clone [https://github.com/lfzacarkims/alura-front-end-portfolio.git](https://github.com/lfzacarkims/alura-front-end-portfolio.git)
+    git clone https://github.com/lfzacarkims/alura-front-end-portfolio.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```sh
